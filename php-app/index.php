@@ -2,7 +2,7 @@
 <h3>PHP Version <pre><?= phpversion()?></pre></h3>
 
 <p>
-  I have updated this text for v1.1
+  I have updated this text for v1.4
 </p>
 
 <p>This is Jean test update</p>

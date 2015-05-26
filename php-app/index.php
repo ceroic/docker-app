@@ -2,5 +2,5 @@
 <h3>PHP Version <pre><?= phpversion()?></pre></h3>
 
 <p>
-  Here's a quick update for you.
+  I have updated this text for v1.1
 </p>
